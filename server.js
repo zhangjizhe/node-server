@@ -23,5 +23,5 @@ server.on('request',function(request, response){
 
 //3让Web服务器开始监听指定端口——开始上岗
 server.listen(9090, '0.0.0.0', function(){
-    console.log('Web服务器开始监听9090端口')
+    console.log('Web服务器开始监听9090端口,hehheh')
 })
